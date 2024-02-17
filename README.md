@@ -26,3 +26,4 @@
 
 # ALGORYTHM
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cvzx991119)](https://solved.ac/cvzx991119/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119)](https://solved.ac/trifolium991119/)
