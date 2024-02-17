@@ -1,6 +1,7 @@
 # Trifolium991119 김민준
 
 꾸준함을 무기로 꾸준하게 성장하는 개발자입니다. 
+###
 성공에 안주하지 않고 , 패배에 좌절하지 않는 사람이 되고 싶습니다.
 
 # STACKS & TOOLS
@@ -20,7 +21,7 @@
 
 # My GitHub
   ###
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-minjun)](https://github.com/kim-minjun/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmj-stale)](https://github.com/kimmj-stale/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-minjun&show_icons=true&theme=dark)
   
 
