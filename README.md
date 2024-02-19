@@ -1,5 +1,4 @@
 # Trifolium991119
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello WOrld!%20render&fontSize=90" />
 ### 수적천석(水滴穿石) 떨어지는 물방울이 결국 바위를 뚫는다는 뜻입니다.
 ### 꾸준함을 무기로, 꾸준하게 성장하는 개발자 김민준입니다!
 
@@ -27,7 +26,10 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-minjun&show_icons=true&theme=dark)
   
 
-# ALGORYTHM
+# ALGORITHM
+### PYTHON
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cvzx991119)](https://solved.ac/cvzx991119/)
+### C++
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119)](https://solved.ac/trifolium991119/)
+### JAVA
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verox0304)](https://solved.ac/verox0304/)
