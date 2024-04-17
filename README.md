@@ -17,6 +17,8 @@
   ###
   ![visual studio code](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![intellij idea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+  ![visual studio 2022](https://img.shields.io/badge/visual%20studio-7F52FF.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
+
 
   
 
