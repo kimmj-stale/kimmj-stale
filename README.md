@@ -5,8 +5,8 @@
 ###
 올해의 목표 : Java 알고리즘 골드 달성 , 1일 1 GIT 
 
-# STACKS & TOOLS
-- SKILL
+# STACKS  &  TOOLS
+- SKILLS
   ###
   ![c](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
   ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
