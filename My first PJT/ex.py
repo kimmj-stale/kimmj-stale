@@ -74,6 +74,7 @@ def all_payments():
 
     all_bill = ame_all_bill + ade_all_bill + tea_all_bill + smoo_all_bill
     label_payment.config(text=f"총 금액 {all_bill}원 입니다.")
+    
     if all_bill <= input_money:
         switching_frame12()
     else:
