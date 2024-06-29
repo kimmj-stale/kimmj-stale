@@ -1,9 +1,9 @@
 # Trifolium991119
-### 수적천석(水滴穿石) 떨어지는 물방울이 결국 바위를 뚫는다는 뜻입니다.
-### 꾸준함을 무기로, 꾸준하게 성장하는 개발자 김민준입니다!
+### Solving Problems is the Core of Computer Science
+### 세상의 많은 문제들을 컴퓨터로 해결하고자 하는, 개발자 김민준입니다.
 
 ###
-올해의 목표 : Java 알고리즘 골드 달성 , 1일 1 GIT , Spring boot 숙련
+올해의 목표 : Java 알고리즘 골드 달성 , Spring boot 숙련
 
 # STACKS  &  TOOLS
 - SKILLS
