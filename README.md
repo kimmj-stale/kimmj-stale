@@ -33,7 +33,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmj-stale&show_icons=true&theme=dark)
   
 
-# Alforithm Check
+# Algorithm Check
 ### PYTHON
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cvzx991119)](https://solved.ac/cvzx991119/)
 ### C++
