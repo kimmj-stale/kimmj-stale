@@ -13,7 +13,7 @@
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
   ![c++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
   ![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-- TOOL
+- TOOLS
   ###
   ![visual studio code](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![intellij idea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -27,13 +27,13 @@
 
   
 
-# My GitHub
+# My GitHub Profile
   ###
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmj-stale)](https://github.com/kimmj-stale/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmj-stale&show_icons=true&theme=dark)
   
 
-# ALGORITHM
+# Alforithm Check
 ### PYTHON
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cvzx991119)](https://solved.ac/cvzx991119/)
 ### C++
