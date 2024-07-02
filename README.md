@@ -4,6 +4,7 @@
 
 ###
 올해의 목표 : Java 알고리즘 골드 달성 , Spring Boot 숙련
+이번 달 목표 : Spring Boot
 
 # STACKS & TOOLS
 - SKILLS
