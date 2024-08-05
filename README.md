@@ -1,6 +1,6 @@
 # Trifolium991119
 ### Solving Problems is the Core of Computer Science
-### 세상의 많은 문제들을 컴퓨터로 해결하고자 하는 개발자 김민준입니다
+### 세상의 많은 문제들을 컴퓨터로 해결하고자 하는 개발자 김민준입니다.
 
 ###
 올해의 목표 : Java 알고리즘 골드 달성 , Spring Boot
