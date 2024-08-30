@@ -10,7 +10,7 @@
             : MVC , API 구성 배우기
 ###
 오늘 목표 : 백준 20920 (영단어 암기는 괴로워) 풀기(O)
-          compare 배우기
+          compare 배우기(O)
 
 
 # STACKS & TOOLS
