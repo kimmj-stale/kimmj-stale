@@ -7,7 +7,7 @@
 
 이번 달 목표 : Kafka , Spring Boot 강의 목표치 달성하기
 ###
-            : MVC , API 구성 배우기
+            : MVC , API
 ###
 오늘 목표 : 
 
