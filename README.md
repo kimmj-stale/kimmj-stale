@@ -8,7 +8,9 @@
 ###
             : MVC , API 학습
 ###
-오늘 목표 :  
+오늘 목표 :   백준 - 11659 부분합 구하기(O)
+            백준 - 9663번 N-Queen()
+            백준 - 11659 부분합 구하기 복습()
            
 ###
 월간 일정 :   알고리즘 기초 과제(C언어 기초)
@@ -48,3 +50,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119)](https://solved.ac/trifolium991119/)
 ### JAVA
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verox0304)](https://solved.ac/verox0304/)
+
+### ETC
+https://trifolium9119-jun.tistory.com/
