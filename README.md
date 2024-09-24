@@ -2,7 +2,7 @@
 ### Solving Problems is the Core of Computer Science
 
 ###
-올해의 목표 : Java 알고리즘 골드 달성 , Spring Boot
+올해의 목표 : Java 알고리즘 골드 달성 , Spring Boot , 프로젝트 경험
 
 이번 달 목표 : Kafka , Spring Boot 강의 목표치 달성하기
 ###
