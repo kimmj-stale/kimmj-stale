@@ -57,5 +57,5 @@
 ### JAVA
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verox0304)](https://solved.ac/verox0304/)
 
-### ETC
+### 티스토리/리포지토리/노션
 https://trifolium9119-jun.tistory.com/
