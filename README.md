@@ -49,7 +49,7 @@
 - ETC
   ###
   ![apachekafka](https://img.shields.io/badge/apache%20kafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
-  ![Amazon Web Service](https://img.shields.io/badge/Amazon%20Web%20Services-231F20.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white)
+  ![Amazon Web Service](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
   
 
