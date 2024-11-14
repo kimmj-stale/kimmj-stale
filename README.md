@@ -55,6 +55,5 @@
 ### JAVA
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verox0304)](https://solved.ac/verox0304/)
 
-### 티스토리/리포지토리/노션
-## Tstory - https://trifolium9119-jun.tistory.com/
+### 노션
 ## Notion - https://www.notion.so/cvzx991119-3e29c93c3621414e9d10a4db0d3f4d92
