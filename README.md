@@ -2,7 +2,7 @@
 ### Solving Problems is the Core of Computer Science
 
 ###
-올해의 목표 : Java 알고리즘 골드 달성 - ✔️ / Spring Boot web project 하나 만들어보기 - ✔️ / 프로젝트 경험 마구마구 쌓기 - / side project 하나 만들기 - / ERD 숙련 - / JPA & MySQL - /
+올해의 목표 : Java 알고리즘 골드 달성 - ✔️ / Spring Boot web project 하나 만들어보기 - ✔️ / 프로젝트 경험 마구마구 쌓기 - / side project 하나 만들기 - / ERD 숙련 - / 쿼리 언어 숙련- /
            
 ###
 오늘 일정 :   알고리즘 두 문제 풀기 - 백2/기술면접 지식 공부 - / Spring Boot 공부- /
