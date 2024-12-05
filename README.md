@@ -39,9 +39,10 @@
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
   ![Spring Security](https://img.shields.io/badge/Spring%2Security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white)
 
--DB
+- DB
   ###
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  
 - ETC
   ###
   ![apachekafka](https://img.shields.io/badge/apache%20kafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
