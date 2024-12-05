@@ -37,7 +37,7 @@
 - WEB
   ###
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
-  ![Spring Security](https://img.shields.io/badge/Spring%2Security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white)
+  ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white)
 
 - DB
   ###
