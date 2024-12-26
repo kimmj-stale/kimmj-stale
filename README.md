@@ -17,7 +17,7 @@
 기타 일정 :    
 
 ###
-프로젝트 :     RESTful API 구현 (Deletion , Post , Get , Update 구현은 했는데 프론트로 검증은 안해봄....) - ✔️/ README.md 주기적 업데이트 - /swift 에서 구현 완료 / 필요한 스키마 & 자료형 검토 - /
+프로젝트 :     RESTful API 구현 (Deletion , Post , Get , Update 구현은 했는데 프론트로 검증은 안해봄....) - ✔️/ README.md 주기적 업데이트 - /swift 에서 구현 완료 / 필요한 스키마 검토 - /
 
 
 # STACKS & TOOLS
