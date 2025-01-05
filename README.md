@@ -24,10 +24,10 @@
 - WORDS
   ###
   <div align = "center">
-          <img src=(https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)>
-          <img src=(https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)>
-          <img src=(https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white)>
-          <img src=(https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)>
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white">
 - TOOLs
   ###
   <div align = "center">
