@@ -40,6 +40,8 @@
           <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+          
   
 
 # My GitHub Profile
