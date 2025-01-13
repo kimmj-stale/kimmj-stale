@@ -19,7 +19,7 @@
 ###
 프로젝트 :     RESTful API 구현 (Deletion , Post , Get , Update 구현은 했는데 프론트로 검증은 안해봄....) - ✔️/ README.md 주기적 업데이트 - /
 ###
-개인 프로젝트  :  react구현 완료 / 백엔드 RESTful API 기반 CRUD 구현 완료 / DB 스키마 설정 / jpg 업로드 설정 필요 - /
+개인 프로젝트  :  react구현 완료 / 백엔드 RESTful API 기반 CRUD 구현 완료 / DB 스키마 설정 / jpg 업로드 설정 필요 - (불필요)/
 
 
 # STACKS & TOOLS
