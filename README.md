@@ -12,7 +12,7 @@
 주간 일정 :  플젝 명세서 작성 - ✔️ / 명세서 엑셀 정리 - / 
            
 ###
-월간 일정 :   프로젝트 팀 회의 매주 (일) / QueryDSL 세팅 설정 (Properties)
+월간 일정 :   프로젝트 팀 회의 매주 (일) / QueryDSL 세팅 설정 (Properties) - 완료 / 테스트 코드 공유 & 테스팅 완료 - /
 
 ###
 기타 일정 :    API명세서 작성 - 디렉토리 API 명세서 작성 완료 , 엑셀에 정리 준비 / API 수정 작업 - Repository 수정 완료 (JPQL -> QueryDSL) , WORK & DIRECTORY 세션 작성 / 
