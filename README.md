@@ -18,7 +18,7 @@
 기타 일정 :    API명세서 작성 - 디렉토리 API 명세서 작성 완료 , 엑셀에 정리 준비 / API 수정 작업 - Repository 수정 완료 (JPQL -> QueryDSL) , WORK & DIRECTORY 세션 작성 / 
 
 ###
-프로젝트 :     RESTful API 구현 (Deletion , Post , Get , Update 구현은 했는데 프론트로 검증은 안해봄....) - ✔️/ README.md 주기적 업데이트 - /
+프로젝트 :     README.md 주기적 업데이트 - /
 ###
 개인 프로젝트  :  react구현 완료 / 백엔드 RESTful API 기반 CRUD 구현 완료 / DB 스키마 설정 / jpg 업로드 설정 필요 - (불필요)/
 
