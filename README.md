@@ -62,3 +62,6 @@
 
 ### 노션
 ## Notion - https://www.notion.so/cvzx991119-3e29c93c3621414e9d10a4db0d3f4d92
+
+### 개발 블로그
+## Tstory - https://trifolium9119-jun.tistory.com/
