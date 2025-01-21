@@ -1,11 +1,6 @@
 # cvzx991119
 ### Solving Problems is the Core of Computer Science
 ### 개발 1년차 주니어 개발자의 성장 일지 입니다.
-        
-# Algorithm
-### C++                                                                        Java
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119)](https://solved.ac/trifolium991119/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verox0304)](https://solved.ac/verox0304/)
 
 ### 
 오늘 일정 :   알고리즘 - /기술면접 지식 공부 - ✔️/ Spring Boot 공부- ✔️/   
@@ -25,6 +20,9 @@
 ###
 개인 프로젝트  :  react구현 완료 / 백엔드 RESTful API 기반 CRUD 구현 완료 / DB 스키마 설정 / jpg 업로드 설정 필요 - (불필요)/ 꾸준히 개발 블로그 관리하기
 
+# Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119)](https://solved.ac/trifolium991119/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verox0304)](https://solved.ac/verox0304/)
 
 # STACKS & TOOLS
 - WORDS
