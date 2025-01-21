@@ -5,7 +5,7 @@
 # Algorithm
 ### C++
 <div align = "center">
-        <img src = http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119(https://solved.ac/trifolium991119/) >
+        <img src = http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119 >
 ### JAVA
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verox0304)](https://solved.ac/verox0304/)
 
