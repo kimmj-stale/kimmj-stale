@@ -2,6 +2,8 @@
 ### Solving Problems is the Core of Computer Science
 ### 개발 1년차 주니어 개발자의 성장 일지 입니다.
 
+
+# 일정
 ### 
 오늘 일정 :   알고리즘 - /기술면접 지식 공부 - ✔️/ Spring Boot 공부- ✔️/   
 
