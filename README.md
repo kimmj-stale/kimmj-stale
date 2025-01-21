@@ -2,7 +2,7 @@
 ### Solving Problems is the Core of Computer Science
 ### 개발 1년차 주니어 개발자의 성장 일지 입니다.
         
-#Algorithm
+# Algorithm
 ### C++
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119)](https://solved.ac/trifolium991119/)
 ### JAVA
