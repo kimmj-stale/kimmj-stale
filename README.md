@@ -11,7 +11,7 @@
 주간 일정 :  명세서 엑셀 정리 - / 
            
 ###
-월간 일정 :   프로젝트 팀 회의 매주 (일) / QueryDSL 세팅 설정 (Properties) -  / 테스트 코드 공유 & 테스팅 완료 - / docker 컨테이너화 설정 (Dockerfile 세팅)
+월간 일정 :   프로젝트 팀 회의 매주 (일) / QueryDSL 세팅 설정 (Properties) -  / 테스트 코드 공유 & 테스팅 완료 - / docker 컨테이너화 설정 (Dockerfile 세팅 - Work API 완료 , Directory API Dockerfile 작성중)
 
 ###
 기타 일정 :    API명세서 작성 - 디렉토리 API 명세서 작성 완료 , 엑셀에 정리 준비 / API 수정 작업 - Repository 수정 완료 (JPQL -> QueryDSL) , WORK & DIRECTORY 세션 작성 / 
@@ -20,7 +20,7 @@
 프로젝트 :     README.md 주기적 업데이트 - / Docker 배포....(DB 배포 진행중..)
 
 ###
-개인 프로젝트  :  react구현 완료 / 백엔드 RESTful API 기반 CRUD 구현 완료 / DB 스키마 설정 / jpg 업로드 설정 필요 - (불필요)/ 꾸준히 개발 블로그 관리하기
+개인 프로젝트  :  react구현 완료 / 백엔드 RESTful API 기반 CRUD 구현 완료 / DB 스키마 설정 / jpg 업로드 설정 필요 - (불필요)/ 꾸준히 개발 블로그 관리하기 / open CSS 관련 글 작성하기
 
 # Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119)](https://solved.ac/trifolium991119/)
