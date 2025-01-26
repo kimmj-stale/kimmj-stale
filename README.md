@@ -17,10 +17,10 @@
 기타 일정 :    API명세서 작성 - 디렉토리 API 명세서 작성 완료 , 엑셀에 정리 준비 / API 수정 작업 - Repository 수정 완료 (JPQL -> QueryDSL) , WORK & DIRECTORY 세션 작성 / 
 
 ###
-프로젝트 :     README.md 주기적 업데이트 - / Docker 배포....(DB 배포 진행중..)
+프로젝트 :     README.md 주기적 업데이트 - / Docker 배포....(DB 배포 진행 전 컨테이너 작업 완료 , EC2에 배포 준비중...)
 
 ###
-개인 프로젝트  :  react구현 완료 / 백엔드 RESTful API 기반 CRUD 구현 완료 / DB 스키마 설정 / jpg 업로드 설정 필요 - (불필요)/ 꾸준히 개발 블로그 관리하기 / open CSS 관련 글 작성하기 - ✔️
+개인 프로젝트  :  꾸준히 개발 블로그 관리하기 / 배포 Dockerfile 작성 - /
 
 # Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119)](https://solved.ac/trifolium991119/)
