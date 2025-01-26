@@ -20,7 +20,7 @@
 프로젝트 :     README.md 주기적 업데이트 - / Docker 배포....(DB 배포 진행중..)
 
 ###
-개인 프로젝트  :  react구현 완료 / 백엔드 RESTful API 기반 CRUD 구현 완료 / DB 스키마 설정 / jpg 업로드 설정 필요 - (불필요)/ 꾸준히 개발 블로그 관리하기 / open CSS 관련 글 작성하기
+개인 프로젝트  :  react구현 완료 / 백엔드 RESTful API 기반 CRUD 구현 완료 / DB 스키마 설정 / jpg 업로드 설정 필요 - (불필요)/ 꾸준히 개발 블로그 관리하기 / open CSS 관련 글 작성하기 - ✔️
 
 # Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119)](https://solved.ac/trifolium991119/)
