@@ -20,7 +20,7 @@
 프로젝트 :     README.md 주기적 업데이트 - / Docker 배포....(DB 배포 진행 전 컨테이너 작업 완료 , EC2에 배포 준비중...)
 
 ###
-개인 프로젝트  :  꾸준히 개발 블로그 관리하기 / 배포 Dockerfile 작성 - /
+개인 프로젝트  :  꾸준히 개발 블로그 관리하기 / 배포 Dockerfile 작성 - / 블로그 css 테마 변경 완료 (기존 테마보다 가독성이 올라갔고 Google ads 넣음)- /
 
 # Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119)](https://solved.ac/trifolium991119/)
