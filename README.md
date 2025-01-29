@@ -17,7 +17,7 @@
 기타 일정 :    API명세서 작성 - 디렉토리 API 명세서 작성 완료 , 엑셀에 정리 준비 / API 수정 작업 - Repository 수정 완료 (JPQL -> QueryDSL) , WORK & DIRECTORY 세션 작성 / 
 
 ###
-프로젝트 :     README.md 주기적 업데이트 - / Docker 배포....(DB 배포 진행 전 컨테이너 작업 완료 , EC2에 배포 준비중...)
+프로젝트 :     README.md 주기적 업데이트 - / Docker 배포....(DB 배포 진행 전 컨테이너 작업 완료 , EC2에 배포 준비중...) / readME 새로 작성
 
 ###
 개인 프로젝트  :  꾸준히 개발 블로그 관리하기 / 배포 Dockerfile 작성 - / 블로그 css 테마 변경 완료 (기존 테마보다 가독성이 올라갔고 Google ads 넣음)- /
