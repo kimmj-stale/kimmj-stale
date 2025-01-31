@@ -8,10 +8,10 @@
 오늘 일정 :   알고리즘 - /기술면접 지식 공부 - ✔️/ Spring Boot 공부- ✔️/   
 
 ###
-주간 일정 :  EC2 배포용 서버 구매하기 - / 플젝 발표 스크립트 & ppt - /
+주간 일정 :  EC2 배포용 서버 구매하기 - / 플젝 발표 스크립트 & ppt - / 
            
 ###
-월간 일정 :   프로젝트 팀 회의 매주 (일) / QueryDSL 세팅 설정 (Properties) -  / 테스트 코드 공유 & 테스팅 완료 - / docker 컨테이너화 설정 (Dockerfile 세팅 - Work API 완료 , Directory API Dockerfile 작성중)
+월간 일정 :   프로젝트 팀 회의 매주 (일) / QueryDSL 세팅 설정 (Properties) -  / 테스트 코드 공유 & 테스팅 완료 - / docker 컨테이너화 설정 (Dockerfile 세팅 - Work API 완료 , Directory API Dockerfile 작성중) /
 
 ###
 기타 일정 :    블로그 css 테마 변경 완료 (기존 테마보다 가독성이 올라갔고 Google ads 넣음)- / 꾸준히 개발 블로그 관리하기 / 
