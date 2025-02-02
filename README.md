@@ -14,7 +14,7 @@
 월간 일정 :   프로젝트 팀 회의 매주 (일) / QueryDSL 세팅 설정 (Properties) -  / 테스트 코드 공유 & 테스팅 완료 - / docker 컨테이너화 설정 (Dockerfile 세팅 - Work API 완료 , Directory API Dockerfile 작성중) /
 
 ###
-기타 일정 :    블로그 css 테마 변경 완료 (기존 테마보다 가독성이 올라갔고 Google ads 넣음)- / 꾸준히 개발 블로그 관리하기 / 
+기타 일정 :    블로그 css 테마 변경 완료 (기존 테마보다 가독성이 올라갔고 Google ads 넣음)- / 꾸준히 개발 블로그 관리하기 - / 
 
 ###
 프로젝트 :     README.md 주기적 업데이트 - / Docker 배포....(DB 배포 진행 전 컨테이너 작업 완료 , EC2에 배포 준비중...) / readME 새로 작성 필요(작성에 필요한 내용들 부탁하기) - / OAuth2.0 + JWT토큰 발급해서 구글, 네이버 간편 로그인 구현
