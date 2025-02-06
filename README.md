@@ -1,6 +1,6 @@
 # cvzx991119
 ### Solving Problems is the Core of Computer Science
-### 개발 1년차 주니어 개발자의 성장 일지 입니다.
+### 개발 1.5년차 주니어 개발자의 성장 일지 입니다.
 
 
 # 일정
