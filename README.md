@@ -5,7 +5,7 @@
 
 # 일정
 ### 
-오늘 일정 :   spring boot -  / 
+오늘 일정 :   spring boot - 1 / 
 ###
 주간 일정 : 
            
