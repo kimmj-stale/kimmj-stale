@@ -5,7 +5,7 @@
 
 # 일정
 ### 
-오늘 일정 :   spring boot - 3 / algo - 5
+오늘 일정 :   spring boot - 3 / algo - 7
 ###
 주간 일정 : 
            
